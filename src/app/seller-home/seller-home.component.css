@@ -1,0 +1,21 @@
+table{
+    margin-top: 150px;
+    margin-left: 150px;
+    border:1px solid blue;
+    border-collapse: collapse;
+}
+
+table thead tr th,table tbody tr td{
+    text-align: center;
+    padding:10px;
+}
+
+img{
+    height: 100px;
+    width:100px;
+}
+
+.modify-edit{
+    margin-left: 10px;
+}
+

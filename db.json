@@ -1,0 +1,96 @@
+{
+  "seller": [
+    {
+      "name": "manikanta",
+      "password": "1234",
+      "email": "manikanta@seller.com",
+      "id": 1
+    },
+    {
+      "name": "satyanarayana",
+      "password": "0000",
+      "email": "satyanarayana@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "manikanta",
+      "password": "00999",
+      "email": "manikanta@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "dummy",
+      "password": "00999",
+      "email": "dummy@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "xyz",
+      "password": "0000",
+      "email": "xyz@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "xyz",
+      "password": "0000",
+      "email": "xyz@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "demo",
+      "password": "123456",
+      "email": "demo@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "raja",
+      "password": "9090",
+      "email": "raja@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "manikanta",
+      "password": "123",
+      "email": "manikantareddy9390@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "manikanta",
+      "password": "123",
+      "email": "manikantareddy9390@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "new",
+      "password": "@@@@",
+      "email": "new@test.com",
+      "id": 11
+    },
+    {
+      "name": "new",
+      "password": "99999",
+      "email": "new@gmail.com",
+      "id": 12
+    }
+  ],
+  "products": [
+    {
+      "name": "Nike",
+      "price": "10000",
+      "color": "black",
+      "category": "shoes",
+      "description": "running shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 2
+    },
+    {
+      "name": "hp",
+      "price": "30000",
+      "color": "white",
+      "category": "laptop",
+      "description": "ldjcvnakln",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 4
+    }
+  ]
+}
